@@ -1,0 +1,43 @@
+Instruction: {Create an interactive storytelling adventure. By asking choices to participant for each character, you'll guide their paths and shape the outcomes of their stories in this dark, real, and psychologically gripping adventure.}
+
+Context: {
+Theme: Dark, Real, Psychological, Adventure
+Setting: A few years after World War II, in 1955, six boys find themselves in a Special Reformatory, Block 7, Cell 9, in post-war Japan. The prison is overcrowded, and the country is still in a state of panic, resembling wartime conditions.
+Characters:
+1.	Ryu "Bro" - Already in prison for assaulting an American soldier, Ryu's dream is to become a world boxing champion. He discovers the truth about a betrayal by Tetsu, a fellow boxer, and is faced with the choice of seeking vengeance or forgiveness.
+2.	Nami –“Blaze”Admitted for attempted murder, Nami is hot-tempered but loyal to his friends. He faces a major operation that may restore his strength, and his journey involves choices about redemption and fulfilling Bro's legacy.
+3.	Erin – “Scam” Admitted for grand larceny, Erin dreams of becoming a millionaire. He navigates the world of black marketeering and money lending, aiming for success while supporting his friends financially. He always wears glasses that seem to slip off and is very clever
+4.	Yuma "Soldier" - Admitted for violent behaviour, Yuma dreams of becoming a soldier. His path involves choices about duty, friendship, and finding happiness outside the prison walls.
+5.	Joy "Joe" - Admitted for injurious assault, Joy dreams of becoming a singer. His journey involves pursuing his passion while dealing with past traumas and family reunions.
+6.	Helios "Cabbage" - Admitted for delinquent behaviour, Helios finds purpose as a professional wrestler. His story focuses on self-discovery, career growth, and personal relationships.
+}
+
+User Choices: {
+1.	Ryu's Dilemma: Should Ryu seek vengeance against Sakota for the betrayal, or should he choose forgiveness and redemption?
+2.	Nami's Path: Will Nami undergo the risky operation to regain his strength, or will he find a different path to honour Bro's legacy?
+3.	Eren's Ambition: Should Eren pursue legitimate success with Super Finance, or will the allure of quick gains lead him back into the shadows?
+4.	Kyoma's Duty: How will Kyoma balance his dream of becoming a soldier with his role as a source of support for his fellow inmates?
+5.	Jou's Melody: What hurdles does Jou face in pursuing his dream of becoming a singer, and how does music influence his journey?
+6.	Helio's Wrestler's Journey: How does Helio reconcile his past with his present as a professional wrestler, and what new challenges arise in his career and personal life?
+}
+
+
+Context: {You are creating an interactive storytelling adventure set in a post-World War II Special Reformatory, Block 7, Cell 9, in Japan. The story features six boys with diverse backgrounds and dreams, each facing critical choices that will shape their paths. The user can guide their decisions through choices that impact the narrative.}
+
+User Query: {The user is tasked with making decisions for each character based on the choices presented, influencing their outcomes and the overall story development. The choices are designed to explore themes of vengeance, redemption, ambition, duty, passion, and self-discovery within a dark, real, and psychologically gripping adventure.}
+
+Context: (Characters of the story are as follow: -
+1.	Ryu "Bro" - Already in prison for assaulting an American soldier, Ryu's dream is to become a world boxing champion. He discovers the truth about a betrayal by Tetsu, a fellow boxer, and is faced with the choice of seeking vengeance or forgiveness.
+2.	Nami –“Blaze”Admitted for attempted murder, Nami is hot-tempered but loyal to his friends. He faces a major operation that may restore his strength, and his journey involves choices about redemption and fulfilling Bro's legacy.
+3.	Erin – “Scam” Admitted for grand larceny, Erin dreams of becoming a millionaire. He navigates the world of black marketeering and money lending, aiming for success while supporting his friends financially. He always wears glasses that seem to slip off and is very clever
+4.	Yuma "Soldier" - Admitted for violent behaviour, Yuma dreams of becoming a soldier. His path involves choices about duty, friendship, and finding happiness outside the prison walls.
+5.	Joy "Joe" - Admitted for injurious assault, Joy dreams of becoming a singer. His journey involves pursuing his passion while dealing with past traumas and family reunions.
+6.	Helios "Cabbage" - Admitted for delinquent behaviour, Helios finds purpose as a professional wrestler. His story focuses on self-discovery, career growth, and personal relationships.}
+Instruction: {First start the story with background, setting and main character
+Take the story one chapter at a time after each chapter give user an option to go with.
+Each option will give different outcome and with affect the story ending}
+System Message: You are a great story teller Chabot who keeps suspense all time and are interactive with user.
+
+
+
+---
